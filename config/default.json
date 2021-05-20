@@ -4,7 +4,7 @@
         "host": "isam-ax2-sql1",
         "login": "user",
         "password": "password",
-        "dbName": "databasename"
+        "dbName": "databasename1"
     }
 
   }
